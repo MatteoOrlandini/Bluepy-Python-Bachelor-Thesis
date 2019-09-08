@@ -1,0 +1,133 @@
+
+UUID servizio : 00001801-0000-1000-8000-00805f9b34fb
+Descrizione servizio : Generic Attribute
+Primo handle servizio: 0x1 = D'1'
+Ultimo handle servizio: 0x4 = D'4'
+
+	UUID caratteristica: 00002a05-0000-1000-8000-00805f9b34fb
+	Nome: Service changed
+	Descrizione caratteristica: the value consists only of a handle range, which delimits a particular area of attributes in the server
+	Handle caratteristica: 0x2 = D'2'
+	Proprietà: INDICATE 
+
+UUID servizio : 00001800-0000-1000-8000-00805f9b34fb
+Descrizione servizio : Generic Access
+Primo handle servizio: 0x5 = D'5'
+Ultimo handle servizio: 0xb = D'11'
+
+	UUID caratteristica: 00002a00-0000-1000-8000-00805f9b34fb
+	Nome: Device name
+	Descrizione caratteristica: contains the device name
+	Handle caratteristica: 0x6 = D'6'
+	Proprietà: READ WRITE NO RESPONSE WRITE WRITE SIGNED 
+
+	UUID caratteristica: 00002a01-0000-1000-8000-00805f9b34fb
+	Nome: Appearance
+	Descrizione caratteristica: Appearance
+	Handle caratteristica: 0x8 = D'8'
+	Proprietà: READ WRITE NO RESPONSE WRITE WRITE SIGNED 
+
+	UUID caratteristica: 00002a04-0000-1000-8000-00805f9b34fb
+	Nome: Manufacturer name string
+	Descrizione caratteristica: contains the manufacturer
+	Handle caratteristica: 0xa = D'10'
+	Proprietà: READ 
+
+UUID servizio : 00000000-0001-11e1-9ab4-0002a5d5c51b
+Descrizione servizio : Base feature
+Primo handle servizio: 0xc = D'12'
+Ultimo handle servizio: 0x2d = D'45'
+
+	UUID caratteristica: 00140000-0001-11e1-ac36-0002a5d5c51b
+	Nome: Temperature and pressure
+	Descrizione caratteristica: atmospheric pressure (mbar) and temperature (°C)
+	Handle caratteristica: 0xd = D'13'
+	Proprietà: READ NOTIFY 
+
+	UUID caratteristica: 00e00000-0001-11e1-ac36-0002a5d5c51b
+	Nome: Accelerometer, gyroscope and magnetometer
+	Descrizione caratteristica: accelerometer, gyroscope and magnetometer data on the three axes
+	Handle caratteristica: 0x10 = D'16'
+	Proprietà: NOTIFY 
+
+	UUID caratteristica: 00000400-0001-11e1-ac36-0002a5d5c51b
+	Nome: Accelerometer Event
+	Descrizione caratteristica: event detected by the accelerometer. It can contain the event, the number of steps or both. The content of the notification changes depending on the length of the package
+	Handle caratteristica: 0x13 = D'19'
+	Proprietà: READ NOTIFY 
+
+	UUID caratteristica: 04000000-0001-11e1-ac36-0002a5d5c51b
+	Nome: Microphone Level
+	Descrizione caratteristica: detects an action using MEMS data
+	Handle caratteristica: 0x16 = D'22'
+	Proprietà: NOTIFY 
+
+	UUID caratteristica: 00000100-0001-11e1-ac36-0002a5d5c51b
+	Nome: Sensor Fusion Compact
+	Descrizione caratteristica: quaternions computed by the MEMS sensor fusion algorithm, sent as three values at a time, that must be already normalized
+	Handle caratteristica: 0x19 = D'25'
+	Proprietà: NOTIFY 
+
+	UUID caratteristica: 00000040-0001-11e1-ac36-0002a5d5c51b
+	Nome: Compass
+	Descrizione caratteristica: gets the angle from the North magnetic pole
+	Handle caratteristica: 0x1c = D'28'
+	Proprietà: NOTIFY 
+
+	UUID caratteristica: 00000010-0001-11e1-ac36-0002a5d5c51b
+	Nome: Activity detection
+	Descrizione caratteristica: the type of activity the user is doing
+	Handle caratteristica: 0x1f = D'31'
+	Proprietà: READ NOTIFY 
+
+	UUID caratteristica: 00000008-0001-11e1-ac36-0002a5d5c51b
+	Nome: Carry Position
+	Descrizione caratteristica: indicates how the user is carrying the device
+	Handle caratteristica: 0x22 = D'34'
+	Proprietà: READ NOTIFY 
+
+	UUID caratteristica: 00000002-0001-11e1-ac36-0002a5d5c51b
+	Nome: Mems Gesture
+	Descrizione caratteristica: detects a gesture from MEMS data
+	Handle caratteristica: 0x25 = D'37'
+	Proprietà: READ NOTIFY 
+
+	UUID caratteristica: 08000000-0001-11e1-ac36-0002a5d5c51b
+	Nome: ADPCM Audio
+	Descrizione caratteristica: audio streaming at 8 bit/8 KHz encoded with the ADPCM codec
+	Handle caratteristica: 0x28 = D'40'
+	Proprietà: NOTIFY 
+
+	UUID caratteristica: 40000000-0001-11e1-ac36-0002a5d5c51b
+	Nome: ADPCM Sync
+	Descrizione caratteristica: sync parameters used for a proper ADPCM decoding
+	Handle caratteristica: 0x2b = D'43'
+	Proprietà: NOTIFY 
+
+UUID servizio : 00000000-000e-11e1-9ab4-0002a5d5c51b
+Descrizione servizio : Debug
+Primo handle servizio: 0x2e = D'46'
+Ultimo handle servizio: 0x34 = D'52'
+
+	UUID caratteristica: 00000001-000e-11e1-ac36-0002a5d5c51b
+	Nome: Debug characteristic 1
+	Descrizione caratteristica: used to send string commands to the board and notify the user about the result
+	Handle caratteristica: 0x2f = D'47'
+	Proprietà: READ WRITE NO RESPONSE WRITE NOTIFY 
+
+	UUID caratteristica: 00000002-000e-11e1-ac36-0002a5d5c51b
+	Nome: Debug characteristic 2
+	Descrizione caratteristica: used by the board to notify the user about an error message
+	Handle caratteristica: 0x32 = D'50'
+	Proprietà: READ NOTIFY 
+
+UUID servizio : 00000000-000f-11e1-9ab4-0002a5d5c51b
+Descrizione servizio : Configuration
+Primo handle servizio: 0x35 = D'53'
+Ultimo handle servizio: 0x38 = D'56'
+
+	UUID caratteristica: 00000002-000f-11e1-ac36-0002a5d5c51b
+	Nome: Configuration characteristic
+	Descrizione caratteristica: used to send commands/data to a specific feature
+	Handle caratteristica: 0x36 = D'54'
+	Proprietà: WRITE NO RESPONSE NOTIFY 

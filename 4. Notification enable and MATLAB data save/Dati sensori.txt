@@ -1,0 +1,1028 @@
+
+Data: 2019-04-09 21:13:20.690395
+Valore accelerometro, giroscopio e magnetometro: E25B90FF7AFF06040400080003002BFE8A00A4FE
+		Timestamp: 23522
+		Accx: -112
+		Accy: -134
+		Accz: 1030
+		Gyrx: 0.4
+		Gyry: 0.8
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 138
+		Magnz: -348
+Valore accelerometro, giroscopio e magnetometro: E85B90FF7AFF080404000900030029FE8700AAFE
+		Timestamp: 23528
+		Accx: -112
+		Accy: -134
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 135
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: EE5B90FF7AFF090404000900030038FE8B00ADFE
+		Timestamp: 23534
+		Accx: -112
+		Accy: -134
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -456
+		Magny: 139
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: F45B90FF7BFF070403000900030029FE8D00ACFE
+		Timestamp: 23540
+		Accx: -112
+		Accy: -133
+		Accz: 1031
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 141
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: FB5B90FF7BFF08040400090003002BFE8B00ACFE
+		Timestamp: 23547
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 139
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 015C90FF7BFF08040300090003002FFE8200A9FE
+		Timestamp: 23553
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -465
+		Magny: 130
+		Magnz: -343
+Valore temperatura e pressione: 065CEC860100ED00
+		Timestamp: 23558
+		Pressione: 1000.76 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: 075C90FF7AFF09040400090002002EFE8500AFFE
+		Timestamp: 23559
+		Accx: -112
+		Accy: -134
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -466
+		Magny: 133
+		Magnz: -337
+Valore accelerometro, giroscopio e magnetometro: 0D5C8FFF7AFF080404000900030038FE8B00A7FE
+		Timestamp: 23565
+		Accx: -113
+		Accy: -134
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -456
+		Magny: 139
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: 145C91FF7BFF060404000900030031FE8400A9FE
+		Timestamp: 23572
+		Accx: -111
+		Accy: -133
+		Accz: 1030
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 132
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 1A5C90FF7BFF080404000800020034FE9000AFFE
+		Timestamp: 23578
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.8
+		Gyrz: 0.2
+		Magnx: -460
+		Magny: 144
+		Magnz: -337
+Valore accelerometro, giroscopio e magnetometro: 205C8FFF7AFF090404000900030029FE8E00AAFE
+		Timestamp: 23584
+		Accx: -113
+		Accy: -134
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 142
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 265C90FF7BFF08040400090003002CFE8800ADFE
+		Timestamp: 23590
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -468
+		Magny: 136
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: 2D5C91FF7BFF070406000800030032FE8800A3FE
+		Timestamp: 23597
+		Accx: -111
+		Accy: -133
+		Accz: 1031
+		Gyrx: 0.6
+		Gyry: 0.8
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 136
+		Magnz: -349
+Valore accelerometro, giroscopio e magnetometro: 335C90FF7CFF07040400090002003AFE7F00A6FE
+		Timestamp: 23603
+		Accx: -112
+		Accy: -132
+		Accz: 1031
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -454
+		Magny: 127
+		Magnz: -346
+Valore accelerometro, giroscopio e magnetometro: 395C90FF7BFF08040400080002002CFE8700ACFE
+		Timestamp: 23609
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.8
+		Gyrz: 0.2
+		Magnx: -468
+		Magny: 135
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 3F5C90FF7AFF08040400090003002EFE8A00A6FE
+		Timestamp: 23615
+		Accx: -112
+		Accy: -134
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -466
+		Magny: 138
+		Magnz: -346
+Valore temperatura e pressione: 455CED860100ED00
+		Timestamp: 23621
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: 465C90FF7BFF090404000900030031FE8E00AAFE
+		Timestamp: 23622
+		Accx: -112
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 142
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 4C5C90FF7CFF090404000900030035FE8D00A9FE
+		Timestamp: 23628
+		Accx: -112
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -459
+		Magny: 141
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 525C91FF7BFF09040400090003002EFE8E00A1FE
+		Timestamp: 23634
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -466
+		Magny: 142
+		Magnz: -351
+Valore accelerometro, giroscopio e magnetometro: 585C90FF7CFF090402000900030032FE8800A9FE
+		Timestamp: 23640
+		Accx: -112
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.2
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 136
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 5F5C91FF7BFF08040400090003002EFE8B00ACFE
+		Timestamp: 23647
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -466
+		Magny: 139
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 655C91FF7BFF080404000900030032FE8E00AAFE
+		Timestamp: 23653
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 142
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 6B5C91FF7BFF080404000900030034FE8700ACFE
+		Timestamp: 23659
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -460
+		Magny: 135
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 715C91FF7BFF09040300090002002FFE8700AAFE
+		Timestamp: 23665
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -465
+		Magny: 135
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 785C91FF7CFF08040400090002002FFE8500A4FE
+		Timestamp: 23672
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -465
+		Magny: 133
+		Magnz: -348
+Valore accelerometro, giroscopio e magnetometro: 7E5C90FF7BFF090404000900030032FE8800AFFE
+		Timestamp: 23678
+		Accx: -112
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 136
+		Magnz: -337
+Valore temperatura e pressione: 835CED860100ED00
+		Timestamp: 23683
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: 845C91FF7CFF080404000900030028FE8500A3FE
+		Timestamp: 23684
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -472
+		Magny: 133
+		Magnz: -349
+Valore accelerometro, giroscopio e magnetometro: 8A5C91FF7CFF08040300090002002CFE8700A9FE
+		Timestamp: 23690
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -468
+		Magny: 135
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 915C91FF7CFF080403000900030029FE8B00A4FE
+		Timestamp: 23697
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 139
+		Magnz: -348
+Valore accelerometro, giroscopio e magnetometro: 975C90FF7BFF080404000900030031FE8B00ACFE
+		Timestamp: 23703
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 139
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 9D5C90FF7BFF090404000900020031FE8700A0FE
+		Timestamp: 23709
+		Accx: -112
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -463
+		Magny: 135
+		Magnz: -352
+Valore accelerometro, giroscopio e magnetometro: A35C91FF7BFF080403000900020031FE8D009EFE
+		Timestamp: 23715
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -463
+		Magny: 141
+		Magnz: -354
+Valore accelerometro, giroscopio e magnetometro: AA5C91FF7BFF090403000900030029FE8800ACFE
+		Timestamp: 23722
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 136
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: B05C91FF7BFF080404000900030032FE8800A9FE
+		Timestamp: 23728
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 136
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: B65C91FF7BFF08040400090002002CFE8400A7FE
+		Timestamp: 23734
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -468
+		Magny: 132
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: BC5C90FF7BFF080404000900030031FE8700ADFE
+		Timestamp: 23740
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 135
+		Magnz: -339
+Valore temperatura e pressione: C25CED860100ED00
+		Timestamp: 23746
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: C35C91FF7CFF090404000900030029FE9300ACFE
+		Timestamp: 23747
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 147
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: C95C91FF7BFF080404000900030025FE8400A6FE
+		Timestamp: 23753
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -475
+		Magny: 132
+		Magnz: -346
+Valore accelerometro, giroscopio e magnetometro: CF5C91FF7BFF090404000900020029FE8E00A7FE
+		Timestamp: 23759
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -471
+		Magny: 142
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: D55C91FF7BFF090404000900030029FE8400A9FE
+		Timestamp: 23765
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 132
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: DC5C91FF7CFF08040400090003002BFE8500ACFE
+		Timestamp: 23772
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 133
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: E25C91FF7BFF080403000900030032FE8700A7FE
+		Timestamp: 23778
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 135
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: E85C91FF7CFF09040400090002002CFE8400ACFE
+		Timestamp: 23784
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -468
+		Magny: 132
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: EE5C91FF7BFF080404000900030028FE8E00AFFE
+		Timestamp: 23790
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -472
+		Magny: 142
+		Magnz: -337
+Valore accelerometro, giroscopio e magnetometro: F55C91FF7BFF09040400090003002FFE8700ADFE
+		Timestamp: 23797
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -465
+		Magny: 135
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: FB5C91FF7BFF090404000900020029FE9100A4FE
+		Timestamp: 23803
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -471
+		Magny: 145
+		Magnz: -348
+Valore temperatura e pressione: 005DED860100ED00
+		Timestamp: 23808
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: 015D91FF7BFF090404000900030028FE8B00A6FE
+		Timestamp: 23809
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -472
+		Magny: 139
+		Magnz: -346
+Valore accelerometro, giroscopio e magnetometro: 075D90FF7CFF090403000900030023FE8D00A7FE
+		Timestamp: 23815
+		Accx: -112
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -477
+		Magny: 141
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: 0E5D90FF7BFF080403000900030035FE8500A7FE
+		Timestamp: 23822
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -459
+		Magny: 133
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: 145D91FF7BFF090404000900030025FE8700ACFE
+		Timestamp: 23828
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -475
+		Magny: 135
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 1A5D91FF7BFF080404000900030032FE8A00ADFE
+		Timestamp: 23834
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 138
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: 205D91FF7BFF080403000900020029FE8800AAFE
+		Timestamp: 23840
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -471
+		Magny: 136
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 275D91FF7CFF0A040300090002002CFE8400A6FE
+		Timestamp: 23847
+		Accx: -111
+		Accy: -132
+		Accz: 1034
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -468
+		Magny: 132
+		Magnz: -346
+Valore accelerometro, giroscopio e magnetometro: 2D5D92FF7DFF06040300090003002FFE8A00A9FE
+		Timestamp: 23853
+		Accx: -110
+		Accy: -131
+		Accz: 1030
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -465
+		Magny: 138
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 335D92FF7BFF0B0403000900020032FE8D00ACFE
+		Timestamp: 23859
+		Accx: -110
+		Accy: -133
+		Accz: 1035
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -462
+		Magny: 141
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 395D91FF7CFF0A040300090003002BFE8800ADFE
+		Timestamp: 23865
+		Accx: -111
+		Accy: -132
+		Accz: 1034
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 136
+		Magnz: -339
+Valore temperatura e pressione: 3F5DED860100ED00
+		Timestamp: 23871
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: 405D91FF7BFF070403000900030029FE8B00ADFE
+		Timestamp: 23872
+		Accx: -111
+		Accy: -133
+		Accz: 1031
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 139
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: 465D91FF7BFF080402000900030028FE8500B0FE
+		Timestamp: 23878
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.2
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -472
+		Magny: 133
+		Magnz: -336
+Valore accelerometro, giroscopio e magnetometro: 4C5D91FF7BFF090403000A0002002FFE8700ACFE
+		Timestamp: 23884
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 1.0
+		Gyrz: 0.2
+		Magnx: -465
+		Magny: 135
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 525D90FF7CFF080404000900030034FE8A00AAFE
+		Timestamp: 23890
+		Accx: -112
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -460
+		Magny: 138
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 595D91FF7BFF09040400090003002CFE8700B2FE
+		Timestamp: 23897
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -468
+		Magny: 135
+		Magnz: -334
+Valore accelerometro, giroscopio e magnetometro: 5F5D91FF7CFF090404000900030034FE8700B0FE
+		Timestamp: 23903
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -460
+		Magny: 135
+		Magnz: -336
+Valore accelerometro, giroscopio e magnetometro: 655D90FF7BFF0A0404000900030031FE8500A9FE
+		Timestamp: 23909
+		Accx: -112
+		Accy: -133
+		Accz: 1034
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 133
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 6B5D91FF7CFF08040300090003002CFE8B00A7FE
+		Timestamp: 23915
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -468
+		Magny: 139
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: 725D91FF7BFF080403000900020029FE8E00AAFE
+		Timestamp: 23922
+		Accx: -111
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -471
+		Magny: 142
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 785D91FF7CFF090404000A0003002BFE8800ACFE
+		Timestamp: 23928
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 1.0
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 136
+		Magnz: -340
+Valore temperatura e pressione: 7D5DEE860100ED00
+		Timestamp: 23933
+		Pressione: 1000.78 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: 7E5D91FF7AFF0B0402000A0003002FFE8A00AAFE
+		Timestamp: 23934
+		Accx: -111
+		Accy: -134
+		Accz: 1035
+		Gyrx: 0.2
+		Gyry: 1.0
+		Gyrz: 0.3
+		Magnx: -465
+		Magny: 138
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 845D91FF7BFF0C0403000900030026FE8E00ADFE
+		Timestamp: 23940
+		Accx: -111
+		Accy: -133
+		Accz: 1036
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -474
+		Magny: 142
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: 8B5D8FFF7CFF0A0403000800030026FE8700A9FE
+		Timestamp: 23947
+		Accx: -113
+		Accy: -132
+		Accz: 1034
+		Gyrx: 0.3
+		Gyry: 0.8
+		Gyrz: 0.3
+		Magnx: -474
+		Magny: 135
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: 915D91FF7CFF090407000600020035FE8500A7FE
+		Timestamp: 23953
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.7
+		Gyry: 0.6
+		Gyrz: 0.2
+		Magnx: -459
+		Magny: 133
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: 975D91FF7CFF090404000800030032FE8200B3FE
+		Timestamp: 23959
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.8
+		Gyrz: 0.3
+		Magnx: -462
+		Magny: 130
+		Magnz: -333
+Valore accelerometro, giroscopio e magnetometro: 9D5D91FF7CFF0A040400090003002BFE8D00B0FE
+		Timestamp: 23965
+		Accx: -111
+		Accy: -132
+		Accz: 1034
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 141
+		Magnz: -336
+Valore accelerometro, giroscopio e magnetometro: A45D92FF7CFF07040300090003002CFE8500A3FE
+		Timestamp: 23972
+		Accx: -110
+		Accy: -132
+		Accz: 1031
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -468
+		Magny: 133
+		Magnz: -349
+Valore accelerometro, giroscopio e magnetometro: AA5D91FF7CFF09040300090003002BFE8700ADFE
+		Timestamp: 23978
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 135
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: B05D91FF7CFF090403000900030029FE8700A0FE
+		Timestamp: 23984
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 135
+		Magnz: -352
+Valore accelerometro, giroscopio e magnetometro: B65D91FF7CFF080403000900030026FE8700B0FE
+		Timestamp: 23990
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -474
+		Magny: 135
+		Magnz: -336
+Valore temperatura e pressione: BC5DED860100ED00
+		Timestamp: 23996
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: BD5D91FF7CFF080403000A00020031FE8200AAFE
+		Timestamp: 23997
+		Accx: -111
+		Accy: -132
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 1.0
+		Gyrz: 0.2
+		Magnx: -463
+		Magny: 130
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: C35D91FF7BFF0A040300090003002BFE8D00A6FE
+		Timestamp: 24003
+		Accx: -111
+		Accy: -133
+		Accz: 1034
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 141
+		Magnz: -346
+Valore accelerometro, giroscopio e magnetometro: C95D92FF7BFF090403000900030031FE8A00ADFE
+		Timestamp: 24009
+		Accx: -110
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 138
+		Magnz: -339
+Valore accelerometro, giroscopio e magnetometro: CF5D92FF7BFF090404000900030031FE8B00A7FE
+		Timestamp: 24015
+		Accx: -110
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 139
+		Magnz: -345
+Valore accelerometro, giroscopio e magnetometro: D65D90FF7BFF080404000A00030028FE8400A9FE
+		Timestamp: 24022
+		Accx: -112
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.4
+		Gyry: 1.0
+		Gyrz: 0.3
+		Magnx: -472
+		Magny: 132
+		Magnz: -343
+Valore accelerometro, giroscopio e magnetometro: DC5D91FF7CFF090402000900030025FE8400A4FE
+		Timestamp: 24028
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.2
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -475
+		Magny: 132
+		Magnz: -348
+Valore accelerometro, giroscopio e magnetometro: E25D90FF7BFF09040400090003002BFE8A00B2FE
+		Timestamp: 24034
+		Accx: -112
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -469
+		Magny: 138
+		Magnz: -334
+Valore accelerometro, giroscopio e magnetometro: E85D92FF7BFF080403000900030029FE8800AAFE
+		Timestamp: 24040
+		Accx: -110
+		Accy: -133
+		Accz: 1032
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 136
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: EF5D92FF7CFF0A040300090003002CFE8100A6FE
+		Timestamp: 24047
+		Accx: -110
+		Accy: -132
+		Accz: 1034
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -468
+		Magny: 129
+		Magnz: -346
+Valore accelerometro, giroscopio e magnetometro: F55D91FF7CFF0A0403000900030028FE8A00ACFE
+		Timestamp: 24053
+		Accx: -111
+		Accy: -132
+		Accz: 1034
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -472
+		Magny: 138
+		Magnz: -340
+Valore temperatura e pressione: FA5DED860100ED00
+		Timestamp: 24058
+		Pressione: 1000.77 mbar
+		Temperatura: 23.7 °C
+Valore accelerometro, giroscopio e magnetometro: FB5D92FF7CFF09040300090002002FFE8D00AAFE
+		Timestamp: 24059
+		Accx: -110
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.2
+		Magnx: -465
+		Magny: 141
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 015E91FF7BFF090404000900030029FE8A00AAFE
+		Timestamp: 24065
+		Accx: -111
+		Accy: -133
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -471
+		Magny: 138
+		Magnz: -342
+Valore accelerometro, giroscopio e magnetometro: 085E92FF7CFF090404000900030031FE8700ACFE
+		Timestamp: 24072
+		Accx: -110
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.4
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -463
+		Magny: 135
+		Magnz: -340
+Valore accelerometro, giroscopio e magnetometro: 0E5E91FF7CFF090403000900030023FE8700A7FE
+		Timestamp: 24078
+		Accx: -111
+		Accy: -132
+		Accz: 1033
+		Gyrx: 0.3
+		Gyry: 0.9
+		Gyrz: 0.3
+		Magnx: -477
+		Magny: 135
+		Magnz: -345

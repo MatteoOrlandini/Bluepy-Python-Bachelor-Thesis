@@ -1,0 +1,2 @@
+Programma scritto tra il 26-03-2019 e il 02-04-2019
+Il programma riceve gli advertising data dei dispositivi bluetooth nelle vicinanze e filtra gli advertising data del SensorTile. Niente di particolare da segnalare.

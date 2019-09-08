@@ -1,0 +1,5 @@
+Programma scritto tra il 04-04-2019 e il 09-04-2019
+Il programma abilita o disabilita a seconda della scelta dell'utente le notifiche relative alla caratteristica del sensore di temperatura e pressione e alla caratteristica del sensore dell'accelerometro, giroscopio e magnetometro.
+Salvataggio dei dati, non decifrati, nel file "Dati sensori.txt". 
+
+PROBLEMA: gli handle necessari per abilitare le notifiche sono stati trovati per tentativi. Si deve cercare di trovarli via software. Si devono decifrare i dati mandati dal SensorTile.

@@ -1,0 +1,5 @@
+Programma scritto tra il 09-04-2019 e l'11-04-2019
+Il programma abilita o disabilita a seconda della scelta dell'utente le notifiche relative alla caratteristica del sensore di temperatura e pressione e alla caratteristica del sensore dell'accelerometro, giroscopio e magnetometro.
+Il programma salva i dati, decifrati, nel file "Dati sensori.txt". Vengono creati 3 file "Accelerometro MATLAB.txt.", "Giroscopio MATLAB.txt" e "Magnetometro MATLAB.txt" in cui i dati sono scritti in modo tabellare secondo la forma "timestamp"\t"Valore asse x"\t"Valore asse y"\t"Valore asse z"\t\n per essere poi usati in MATLAB per fare dei grafici.
+
+PROBLEMI RISOLTI RISPETTO LA VERSIONE PRECEDENTE: gli handle necessari per abilitare le notifiche sono stati trovati via software. I dati mandati dal SensorTile sono stati decifrati.

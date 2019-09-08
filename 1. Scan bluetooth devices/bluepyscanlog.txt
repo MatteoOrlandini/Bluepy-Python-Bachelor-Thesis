@@ -1,0 +1,3292 @@
+Flags=1e
+Manufacturer=75004204014041ccb11adb382fceb11a61382e34000000000000
+Flags=06
+Incomplete 16b Services=0000fff0-0000-1000-8000-00805f9b34fb
+Manufacturer=0000000094e36d8b1875f6fff000f6fff6fff6fff6ff
+Complete 16b Services=0000fe9f-0000-1000-8000-00805f9b34fb
+16b Service Data=9ffe0000000000000000000000000000000000000000
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=5701000293d0424d6ca0f30ccf2ea8e9c78dbd02f9bbd34a50c5
+Flags=06
+Complete 16b Services=0000fee7-0000-1000-8000-00805f9b34fb,0000a500-0000-1000-8000-00805f9b34fb
+Manufacturer=5900d1eabf132fe4
+Complete Local Name=LSBand2
+Flags=1a
+Manufacturer=4c000906020000000000
+Data: Mon Apr  1 10:12:33 2019
+Flags=06
+Data: Mon Apr  1 10:12:33 2019
+Manufacturer=570100f17f2ab923709535ce99664d96ef21b202f9bbd34a50c5
+Data: Mon Apr  1 10:12:33 2019
+Flags=1a
+Data: Mon Apr  1 10:12:33 2019
+Manufacturer=4c000906020000000000
+Data: Mon Apr  1 10:19:03 2019
+Flags=06
+Manufacturer=57010021aa4b7eee3225e84d5d3cf5637dc67102f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe37000000
+Flags=1a
+Manufacturer=4c000906020000000000
+Data: Mon Apr  1 10:24:56 2019
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Complete 16b Services=0000fee7-0000-1000-8000-00805f9b34fb,0000a500-0000-1000-8000-00805f9b34fb
+Manufacturer=5900d1eabf132fe4
+Complete Local Name=LSBand2
+Flags=06
+Manufacturer=57010042f9e51b5366d5b4fa7e416577b0714402f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe53000000
+Data: Mon Apr  1 10:34:22 2019
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=5701001153653ff7de1bf0236bef385458e55a02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:35:16 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=570100755da84c079bbe6f7b1e6ab3fb49445502f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:35:28 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=570100755da84c079bbe6f7b1e6ab3fb49445502f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:35:45 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=570100755da84c079bbe6f7b1e6ab3fb49445502f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:42:20 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=5701009a38988d562911b28e095bc98ea66e6702f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:42:52 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=5701009a38988d562911b28e095bc98ea66e6702f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:48:18 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=06
+Manufacturer=5701005fa3417d43489272cad52e56d8e1b44c02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Data: Mon Apr  1 10:48:45 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=06
+Manufacturer=5701005fa3417d43489272cad52e56d8e1b44c02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Flags=1a
+Manufacturer=4c000906020000000000
+Data: Mon Apr  1 10:49:10 2019
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=57010012c4f7a83a0c1f53d2bbe0fba03c9c3602f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+
+Data: Mon Apr  1 10:52:39 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=06
+Manufacturer=570100d948fe9200110fd47ea055044f80188d02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0fe68000000
+Flags=1a
+Manufacturer=4c000906020000000000
+
+Data: Mon Apr  1 11:32:41 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=06
+Manufacturer=570100cab6bcc845c662664ea8daff738982dd02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+Flags=1a
+Manufacturer=4c000906020000000000
+
+Data: Mon Apr  1 11:37:36 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=570100e5861b6b26959f348f5b852002a96d4002f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+
+Data: Mon Apr  1 11:38:48 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=06
+Manufacturer=570100a709627ed7cbbff38e5f8b87cd6dba4f02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+Flags=1a
+Manufacturer=4c000906020000000000
+
+Data: Mon Apr  1 11:39:42 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=06
+Manufacturer=570100f187bb62de87632bc762b7f6426d3aa102f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Complete 16b Services=0000fee7-0000-1000-8000-00805f9b34fb,0000a500-0000-1000-8000-00805f9b34fb
+Manufacturer=5900d1eabf132fe4
+Complete Local Name=LSBand2
+128b Service Solicitation=d0002d121e4b0fa4994eceb531f40579
+
+Data: Mon Apr  1 11:40:15 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Complete 16b Services=0000fee7-0000-1000-8000-00805f9b34fb,0000a500-0000-1000-8000-00805f9b34fb
+Manufacturer=5900d1eabf132fe4
+Complete Local Name=LSBand2
+Flags=06
+Manufacturer=5701001ffa00e9401d93277f473eb0a1d141f702f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+
+Data: Mon Apr  1 11:41:12 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Manufacturer=570100d310c1fe1927b1a44aa025c9651e032902f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+
+Data: Mon Apr  1 11:43:36 2019
+Tx Power=00
+Complete Local Name=AM1V310
+Manufacturer=01024cf4055ac0831d314548
+Flags=06
+Flags=1a
+Manufacturer=4c000906020000000000
+Flags=06
+Complete 16b Services=0000fee7-0000-1000-8000-00805f9b34fb,0000a500-0000-1000-8000-00805f9b34fb
+Manufacturer=5900d1eabf132fe4
+Complete Local Name=LSBand2
+Flags=06
+Manufacturer=5701005045236a9ebd061776cf761493973c5a02f9bbd34a50c5
+Complete Local Name=MI Band 2
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+16b Service Data=e0feaa000000
+
+Data: Mon Apr  1 16:03:39 2019
+Manufacturer=0600010f2002253b6aca4fb3648c5c0f9ebb6896a78be0feffee7d151a
+Manufacturer=06000109200241d523b06cefc1f59bdad309241072648c2d2e077aafb8
+Flags=06
+Manufacturer=4c0010020708
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=060001092002958f4fe708345c422ed8ed42ece0053589dbfa9d09b87b
+Manufacturer=060001092002d2d7d9db1b2b140c7abd5c8051d17046c66c325a54d3cd
+Flags=1a
+Manufacturer=4c001005031cbc877f
+Flags=1a
+Manufacturer=4c001005071c0f05e0
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Manufacturer=060001092002ef1cecfa1d5ac5eceb051a793e2131da600a1edc4b8221
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+Flags=1a
+Manufacturer=4c00100501985aaf84
+Flags=1a
+Manufacturer=4c0010051b1c58c015
+Manufacturer=0600010920020746db737469967e045b519f8de20c41ecd363bbf5de43
+Flags=1a
+Manufacturer=4c001005031c126d0d
+Flags=1a
+Manufacturer=4c001005131c096dc7
+Flags=1a
+Manufacturer=4c0010050318825757
+Flags=06
+Manufacturer=5701001dedc5a5cca4a7a47ba41a4bf24163e202d88966182834
+Complete Local Name=Amazfit Bip Watch
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+Manufacturer=0600010920026cddcdd5e8986e474b53c512ad7272a838cd341e590f77
+Manufacturer=060001092002f737f4c1c18897fe41e9f9b48a6fc70214ce052e908809
+Manufacturer=060001092002e48741ab19286a6ae20ee0aba14ff880ec46146e56d2aa
+
+Data: Mon Apr  1 16:21:15 2019
+Manufacturer=06000109200241d523b06cefc1f59bdad309241072648c2d2e077aafb8
+Flags=1a
+Manufacturer=4c001005031c0f05e0
+Manufacturer=060001092002d2d7d9db1b2b140c7abd5c8051d17046c66c325a54d3cd
+Manufacturer=0600010f2002253b6aca4fb3648c5c0f9ebb6896a78be0feffee7d151a
+Flags=1a
+Manufacturer=4c001005171c096dc7
+Manufacturer=060001092002958f4fe708345c422ed8ed42ece0053589dbfa9d09b87b
+Flags=1a
+Manufacturer=4c0010050318825757
+Flags=1a
+Manufacturer=4c001005031c126d0d
+Flags=1a
+Manufacturer=4c0010050b106fe798
+Manufacturer=0600010920020746db737469967e045b519f8de20c41ecd363bbf5de43
+Flags=06
+Manufacturer=5701001dedc5a5cca4a7a47ba41a4bf24163e202d88966182834
+Complete Local Name=Amazfit Bip Watch
+Incomplete 16b Services=0000fee0-0000-1000-8000-00805f9b34fb
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Flags=1a
+Manufacturer=4c00100501180af8a4
+Flags=1a
+Manufacturer=4c00100501182972b0
+Flags=1a
+Manufacturer=4c001005031cbc877f
+Manufacturer=060001092002ef1cecfa1d5ac5eceb051a793e2131da600a1edc4b8221
+Flags=1a
+Manufacturer=4c0010051a1cb774ca
+Manufacturer=0600010920026cddcdd5e8986e474b53c512ad7272a838cd341e590f77
+
+Data: Mon Apr  1 16:23:13 2019
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Manufacturer=06000109200241d523b06cefc1f59bdad309241072648c2d2e077aafb8
+Manufacturer=0600010f2002253b6aca4fb3648c5c0f9ebb6896a78be0feffee7d151a
+Manufacturer=060001092002958f4fe708345c422ed8ed42ece0053589dbfa9d09b87b
+Manufacturer=060001092002d2d7d9db1b2b140c7abd5c8051d17046c66c325a54d3cd
+Flags=1a
+Manufacturer=4c001005031c0f05e0
+Flags=1a
+Manufacturer=4c0010051b1cb774ca
+Manufacturer=060001092002f737f4c1c18897fe41e9f9b48a6fc70214ce052e908809
+Flags=1a
+Manufacturer=4c0010050b106fe798
+Flags=1a
+Manufacturer=4c001005031cbc877f
+Manufacturer=0600010920026cddcdd5e8986e474b53c512ad7272a838cd341e590f77
+Flags=1a
+Manufacturer=4c001005171cb1dc0f
+Flags=1a
+Manufacturer=4c00100501985aaf84
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Manufacturer=060001092002ef1cecfa1d5ac5eceb051a793e2131da600a1edc4b8221
+Flags=1a
+Manufacturer=4c0010050318825757
+Manufacturer=060001092002f737f4c1c18897fe41e9f9b48a6fc70214ce052e908809
+Flags=1a
+Manufacturer=4c001005031c126d0d
+Flags=1a
+Manufacturer=4c00100501180af8a4
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+
+Data: Mon Apr  1 16:26:12 2019
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Manufacturer=060001092002958f4fe708345c422ed8ed42ece0053589dbfa9d09b87b
+Manufacturer=0600010f2002253b6aca4fb3648c5c0f9ebb6896a78be0feffee7d151a
+Manufacturer=060001092002ef1cecfa1d5ac5eceb051a793e2131da600a1edc4b8221
+Manufacturer=060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Flags=1a
+Manufacturer=4c001005031c0f05e0
+Flags=1a
+Manufacturer=4c001005131cb1dc0f
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Flags=1a
+Manufacturer=4c0010051b1cb774ca
+Manufacturer=0600010920026cddcdd5e8986e474b53c512ad7272a838cd341e590f77
+Flags=1a
+Manufacturer=4c00100501985aaf84
+Flags=1a
+Manufacturer=4c0010050b1cee2533
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+Manufacturer=060001092002f737f4c1c18897fe41e9f9b48a6fc70214ce052e908809
+Flags=1a
+Manufacturer=4c001005031cee4bb0
+Flags=1a
+Flags=1a
+Manufacturer=4c001005011c0af8a4
+Flags=1a
+Manufacturer=4c00100501182972b0
+Flags=1a
+Manufacturer=4c0010050318825757
+
+Data: Mon Apr  1 16:29:30 2019
+Manufacturer=060001092002ef1cecfa1d5ac5eceb051a793e2131da600a1edc4b8221
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=0600010f2002253b6aca4fb3648c5c0f9ebb6896a78be0feffee7d151a
+Manufacturer=060001092002f737f4c1c18897fe41e9f9b48a6fc70214ce052e908809
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Manufacturer=060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Manufacturer=060001092002958f4fe708345c422ed8ed42ece0053589dbfa9d09b87b
+Flags=1a
+Manufacturer=4c001005031c0f05e0
+Flags=1a
+Manufacturer=4c001005031cee2533
+Flags=1a
+Manufacturer=4c001005131cb1dc0f
+Flags=1a
+Manufacturer=4c00100501180af8a4
+Flags=1a
+Manufacturer=4c0010050b1c01b7b4
+Flags=1a
+Manufacturer=4c000c0e00612b8a02942e3fba2050b4cac510051b1cb774ca
+Flags=1a
+Manufacturer=4c00100501985aaf84
+Flags=1a
+Manufacturer=4c0010050318825757
+Manufacturer=0600010920026cddcdd5e8986e474b53c512ad7272a838cd341e590f77
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+
+Data: Mon Apr  1 16:31:09 2019
+
+Data: Mon Apr  1 16:47:30 2019
+Manufacturer=060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Manufacturer=0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+Flags=1a
+Manufacturer=4c0010050b1c442fec
+Manufacturer=060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+Flags=1a
+Manufacturer=4c00100503184aad66
+Flags=1a
+Manufacturer=4c001005031ca1870e
+Flags=1a
+Manufacturer=4c00100501184d8409
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Flags=1a
+Manufacturer=4c001005131cb1dc0f
+Flags=1a
+Manufacturer=4c00100501985aaf84
+Flags=1a
+Manufacturer=4c000c0e00e30dd06a74528d082286aeecd010050b10dcafa1
+Flags=1a
+Manufacturer=4c0010050318825757
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Flags=1a
+Manufacturer=4c001005031cf73b75
+Flags=1a
+Manufacturer=4c0010051a1c531160
+Flags=1a
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+Flags=1a
+Manufacturer=4c001005031cee2533
+Manufacturer=060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+
+Data: Mon Apr  1 16:49:24 2019
+Flags=1a
+Manufacturer=4c0010050310dcafa1
+Manufacturer=060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+Manufacturer=060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Flags=1a
+Manufacturer=4c001005131cb1dc0f
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+Manufacturer=060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Flags=1a
+Manufacturer=4c001005031ca1870e
+Flags=1a
+Manufacturer=4c001005031cf73b75
+Manufacturer=060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Flags=1a
+Manufacturer=4c0010051a1c531160
+Flags=1a
+Manufacturer=4c0010050b1c01b7b4
+Flags=1a
+Manufacturer=4c0010050318825757
+Flags=1a
+Manufacturer=4c00100501184d8409
+Flags=1a
+Manufacturer=4c001005031cee2533
+Flags=1a
+Manufacturer=4c0010050b1ce46dd5
+Flags=1a
+Manufacturer=4c00100501985aaf84
+
+Data: Mon Apr  1 16:50:34 2019
+Manufacturer=060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Tx Power=04
+Complete Local Name=honor Band 3-f02
+Flags=1a
+Manufacturer=4c001005031ca1870e
+Manufacturer=060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Manufacturer=060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+Manufacturer=0600010920026188c4e0aa35cfd4d80c955542c3b6ee6428ebb7460a39
+Flags=1a
+Manufacturer=4c001005131cb1dc0f
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Manufacturer=060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+Manufacturer=0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+Flags=1a
+Manufacturer=4c0010051a1c531160
+Flags=1a
+Manufacturer=4c0010050318825757
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+Flags=1a
+Manufacturer=4c001005031cf73b75
+Flags=1a
+Flags=1a
+Manufacturer=4c001005031cee2533
+Flags=1a
+Manufacturer=4c0010050b1c01b7b4
+
+Data: Mon Apr  1 16:51:02 2019
+Manufacturer=0600010920026188c4e0aa35cfd4d80c955542c3b6ee6428ebb7460a39
+Flags=1a
+Manufacturer=4c001005031cee2533
+Manufacturer=060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Flags=1a
+Manufacturer=4c001005031ca1870e
+Manufacturer=0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+Manufacturer=060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+Appearance=0000
+Flags=06
+Incomplete 16b Services=00001812-0000-1000-8000-00805f9b34fb
+Manufacturer=7d02010300985a
+Manufacturer=060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Flags=1a
+Manufacturer=4c000c0e00ec0d307144d3549d8a365880fb10050b10dcafa1
+Manufacturer=060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+Manufacturer=060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Flags=1a
+Manufacturer=4c001005031cf73b75
+Flags=1a
+Manufacturer=4c001005171cb1dc0f
+Flags=02
+Manufacturer=c4003503040e1080
+Complete 16b Services=0000feb9-0000-1000-8000-00805f9b34fb
+0x1b=b4f1da6a7574
+Flags=1a
+Manufacturer=4c0010051a1c531160
+Manufacturer=060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+Flags=1a
+Manufacturer=4c0010050b1c01b7b4
+Flags=1a
+Manufacturer=4c00100501184d8409
+
+Data: Mon Apr  1 16:54:02 2019
+
+Device MAC address: 71:59:fb:81:fb:51
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -65 dB
+	connectable: False
+	number of advertising packets received: 26Advertising data: 255
+	Description: Manufacturer
+	Value: 0600010920026188c4e0aa35cfd4d80c955542c3b6ee6428ebb7460a39
+Device MAC address: 3c:6e:ee:d5:02:d7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -43 dB
+	connectable: False
+	number of advertising packets received: 28Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+Device MAC address: 6a:fd:1d:07:89:06
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -82 dB
+	connectable: True
+	number of advertising packets received: 23Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031c8506fb
+Device MAC address: 00:fc:ee:00:a3:d3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -57 dB
+	connectable: False
+	number of advertising packets received: 25Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Device MAC address: 26:30:a5:eb:af:ff
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: False
+	number of advertising packets received: 25Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: True
+	number of advertising packets received: 15Advertising data: 25
+	Description: Appearance
+	Value: 0000Advertising data: 1
+	Description: Flags
+	Value: 06Advertising data: 2
+	Description: Incomplete 16b Services
+	Value: 00001812-0000-1000-8000-00805f9b34fbAdvertising data: 255
+	Description: Manufacturer
+	Value: 7d02010300985aAdvertising data: 10
+	Description: Tx Power
+	Value: 04Advertising data: 9
+	Description: Complete Local Name
+	Value: honor Band 3-f02
+Device MAC address: 51:64:c5:34:24:5a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -65 dB
+	connectable: True
+	number of advertising packets received: 21Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031ca1870e
+Device MAC address: 19:a1:d0:46:77:27
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: False
+	number of advertising packets received: 23Advertising data: 255
+	Description: Manufacturer
+	Value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+Device MAC address: 67:aa:3c:35:46:19
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 11Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c00100501988b2fb3
+Device MAC address: 5a:fd:21:c0:38:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 5Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050318825757
+Device MAC address: 4c:d3:2e:84:6b:4f
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -76 dB
+	connectable: False
+	number of advertising packets received: 20Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Device MAC address: 49:67:bc:8f:91:33
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 3Advertising data: 1
+	Description: Flags
+	Value: 02Advertising data: 255
+	Description: Manufacturer
+	Value: c4003503040e1080Advertising data: 3
+	Description: Complete 16b Services
+	Value: 0000feb9-0000-1000-8000-00805f9b34fbAdvertising data: 27
+	Description: 0x1b
+	Value: b4f1da6a7574
+Device MAC address: 0a:ef:a5:21:c7:39
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: False
+	number of advertising packets received: 7Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+Device MAC address: 54:15:b4:f4:e7:66
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -95 dB
+	connectable: True
+	number of advertising packets received: 5Advertising data: 1
+	Description: Flags
+	Value: 1a
+Device MAC address: 68:0c:8e:5b:14:da
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 16Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010051a1c531160
+Device MAC address: 3a:0e:34:28:e3:38
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 2Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+Device MAC address: 6f:07:84:41:42:c3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 10Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005171cb1dc0f
+Device MAC address: 57:a6:cb:8d:27:c5
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 3Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005011c0af8a4
+Device MAC address: 53:08:d4:70:15:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 4Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031cf73b75
+Device MAC address: fe:cc:13:c2:e1:be
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 1Advertising data: 1
+	Description: Flags
+	Value: 06Advertising data: 255
+	Description: Manufacturer
+	Value: 570100dfa8477c004c840355a757ab97e0f00e02fecc13c2e1be
+Data: Mon Apr  1 16:55:30 2019
+
+Device MAC address: 71:59:fb:81:fb:51
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -66 dB
+	connectable: False
+	number of advertising packets received: 23Advertising data: 255
+	Description: Manufacturer
+	Value: 0600010920026188c4e0aa35cfd4d80c955542c3b6ee6428ebb7460a39
+Device MAC address: 6f:07:84:41:42:c3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -88 dB
+	connectable: True
+	number of advertising packets received: 17Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005131cb1dc0f
+Device MAC address: 3c:6e:ee:d5:02:d7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -42 dB
+	connectable: False
+	number of advertising packets received: 24Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+Device MAC address: 51:64:c5:34:24:5a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -64 dB
+	connectable: True
+	number of advertising packets received: 21Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031ca1870e
+Device MAC address: 26:30:a5:eb:af:ff
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 19Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+Device MAC address: 00:fc:ee:00:a3:d3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -57 dB
+	connectable: False
+	number of advertising packets received: 22Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+Device MAC address: 68:0c:8e:5b:14:da
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 18Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010051a1c531160
+Device MAC address: 19:a1:d0:46:77:27
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 22Advertising data: 255
+	Description: Manufacturer
+	Value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+Device MAC address: 4c:d3:2e:84:6b:4f
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -79 dB
+	connectable: False
+	number of advertising packets received: 21Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 11Advertising data: 25
+	Description: Appearance
+	Value: 0000Advertising data: 1
+	Description: Flags
+	Value: 06Advertising data: 2
+	Description: Incomplete 16b Services
+	Value: 00001812-0000-1000-8000-00805f9b34fbAdvertising data: 255
+	Description: Manufacturer
+	Value: 7d02010300985aAdvertising data: 10
+	Description: Tx Power
+	Value: 04Advertising data: 9
+	Description: Complete Local Name
+	Value: honor Band 3-f02
+Device MAC address: 78:01:f8:d4:88:8e
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 3Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050b1c3a4c96
+Device MAC address: 67:aa:3c:35:46:19
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 7Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c00100501988b2fb3
+Device MAC address: 54:15:b4:f4:e7:66
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -97 dB
+	connectable: True
+	number of advertising packets received: 6Advertising data: 1
+	Description: Flags
+	Value: 1a
+Device MAC address: 49:77:f9:7a:8f:1e
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 1Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050118fab588
+Device MAC address: 3a:0e:34:28:e3:38
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -96 dB
+	connectable: False
+	number of advertising packets received: 3Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+Device MAC address: 6a:fd:1d:07:89:06
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 11Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031c8506fb
+Device MAC address: 6e:21:77:13:8f:bd
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 2Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050118c40e38
+Device MAC address: 46:16:42:78:ee:76
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 1Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050a1cb75b3f
+Device MAC address: 39:6b:c5:2c:c4:0c
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -99 dB
+	connectable: False
+	number of advertising packets received: 1Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002786fcb335e288d79049190e4bb399ad5b799ecbbb4684d
+Device MAC address: 5a:fd:21:c0:38:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 2Advertising data: 1
+	Description: Flags
+	Value: 1aAdvertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050318825757
+Device MAC address: 49:67:bc:8f:91:33
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -95 dB
+	connectable: True
+	number of advertising packets received: 1Advertising data: 1
+	Description: Flags
+	Value: 02Advertising data: 255
+	Description: Manufacturer
+	Value: c4003503040e1080Advertising data: 3
+	Description: Complete 16b Services
+	Value: 0000feb9-0000-1000-8000-00805f9b34fbAdvertising data: 27
+	Description: 0x1b
+	Value: b4f1da6a7574
+Data: Mon Apr  1 16:56:31 2019
+
+Device MAC address: 19:a1:d0:46:77:27
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: False
+	number of advertising packets received: 20
+Advertising data: 255
+	Description: Manufacturer
+	Value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+
+Device MAC address: 4c:d3:2e:84:6b:4f
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -70 dB
+	connectable: False
+	number of advertising packets received: 20
+Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+
+Device MAC address: 6f:07:84:41:42:c3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 9
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c001005131cb1dc0f
+
+Device MAC address: 71:59:fb:81:fb:51
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -65 dB
+	connectable: False
+	number of advertising packets received: 11
+Advertising data: 255
+	Description: Manufacturer
+	Value: 0600010920026188c4e0aa35cfd4d80c955542c3b6ee6428ebb7460a39
+
+Device MAC address: 00:fc:ee:00:a3:d3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -50 dB
+	connectable: False
+	number of advertising packets received: 20
+Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+
+Device MAC address: 68:0c:8e:5b:14:da
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 3
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c0010051a1c531160
+
+Device MAC address: 49:77:f9:7a:8f:1e
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 7
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050118fab588
+
+Device MAC address: 3c:6e:ee:d5:02:d7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -40 dB
+	connectable: False
+	number of advertising packets received: 21
+Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+
+Device MAC address: 26:30:a5:eb:af:ff
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -83 dB
+	connectable: False
+	number of advertising packets received: 18
+Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+
+Device MAC address: 51:64:c5:34:24:5a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -66 dB
+	connectable: True
+	number of advertising packets received: 21
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031ca1870e
+
+Device MAC address: 49:67:bc:8f:91:33
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -88 dB
+	connectable: True
+	number of advertising packets received: 4
+Advertising data: 1
+	Description: Flags
+	Value: 02
+Advertising data: 255
+	Description: Manufacturer
+	Value: c4003503040e1080
+Advertising data: 3
+	Description: Complete 16b Services
+	Value: 0000feb9-0000-1000-8000-00805f9b34fb
+Advertising data: 27
+	Description: 0x1b
+	Value: b4f1da6a7574
+
+Device MAC address: 53:08:d4:70:15:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 3
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c001005071cf73b75
+
+Device MAC address: 54:15:b4:f4:e7:66
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 8
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+
+Device MAC address: 6a:fd:1d:07:89:06
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 12
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c001005031c8506fb
+
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: True
+	number of advertising packets received: 11
+Advertising data: 25
+	Description: Appearance
+	Value: 0000
+Advertising data: 1
+	Description: Flags
+	Value: 06
+Advertising data: 2
+	Description: Incomplete 16b Services
+	Value: 00001812-0000-1000-8000-00805f9b34fb
+Advertising data: 255
+	Description: Manufacturer
+	Value: 7d02010300985a
+
+Device MAC address: 67:aa:3c:35:46:19
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -88 dB
+	connectable: True
+	number of advertising packets received: 7
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c00100501988b2fb3
+
+Device MAC address: 5a:fd:21:c0:38:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -88 dB
+	connectable: True
+	number of advertising packets received: 6
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050318825757
+
+Device MAC address: 3a:0e:34:28:e3:38
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -99 dB
+	connectable: False
+	number of advertising packets received: 6
+Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002d95307da074459fa678aa4bec589fd4690a5e471cda34a
+
+Device MAC address: 00:88:64:43:19:77
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 1
+Advertising data: 255
+	Description: Manufacturer
+	Value: 060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+
+Device MAC address: 69:fd:fe:df:c4:5c
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 1
+Advertising data: 1
+	Description: Flags
+	Value: 1a
+Advertising data: 255
+	Description: Manufacturer
+	Value: 4c0010050318fe4b09
+
+Data: Mon Apr  1 16:59:13 2019
+
+Device MAC address: 00:fc:ee:00:a3:d3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -56 dB
+	connectable: False
+	number of advertising packets received: 26
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 060001092002e67d7a0eea334f06b0af0f31290656c0d4cd14626b11ef
+
+Device MAC address: 51:c0:bf:b3:9c:03
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 6
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c000c0e008d344db7112092ef4b8957de5110050b1cd2c29c
+
+Device MAC address: 26:30:a5:eb:af:ff
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: False
+	number of advertising packets received: 21
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+
+Device MAC address: 7e:3e:dd:2b:a6:c9
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -58 dB
+	connectable: False
+	number of advertising packets received: 25
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 060001092002028d8a93f762bea369ed2941ed5abd3d4ab7f89ce823f2
+
+Device MAC address: 3c:6e:ee:d5:02:d7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -39 dB
+	connectable: False
+	number of advertising packets received: 28
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+
+Device MAC address: 77:d0:46:91:ec:2a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -74 dB
+	connectable: False
+	number of advertising packets received: 21
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+
+Device MAC address: 51:64:c5:34:24:5a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -79 dB
+	connectable: True
+	number of advertising packets received: 19
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c001005031ca1870e
+
+Device MAC address: 2b:80:70:d3:c2:ea
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -78 dB
+	connectable: False
+	number of advertising packets received: 20
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+
+Device MAC address: 6f:07:84:41:42:c3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -81 dB
+	connectable: True
+	number of advertising packets received: 14
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c001005131cb1dc0f
+
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -80 dB
+	connectable: True
+	number of advertising packets received: 11
+	Advertising data: 25
+	Advertising data description: Appearance
+	Value: 0000
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 06
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Value: 00001812-0000-1000-8000-00805f9b34fb
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 7d02010300985a
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Value: 04
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Value: honor Band 3-f02
+
+Device MAC address: 49:67:bc:8f:91:33
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 6
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 02
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: c4003503040e1080
+	Advertising data: 3
+	Advertising data description: Complete 16b Services
+	Value: 0000feb9-0000-1000-8000-00805f9b34fb
+	Advertising data: 27
+	Advertising data description: 0x1b
+	Value: b4f1da6a7574
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Value: Io
+
+Device MAC address: 5a:fd:21:c0:38:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 16
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c0010050318825757
+
+Device MAC address: 67:aa:3c:35:46:19
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 8
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c00100501988b2fb3
+
+Device MAC address: 72:90:a5:2f:88:07
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -95 dB
+	connectable: True
+	number of advertising packets received: 5
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c0010050b1ce46dd5
+
+Device MAC address: 6a:fd:1d:07:89:06
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 11
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c001005031c8506fb
+
+Device MAC address: 54:15:b4:f4:e7:66
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+
+Device MAC address: 00:88:64:43:19:77
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 060001092002ffa9ff626e3cb8e87592c5ba2c08c0188dc659349fb6fe
+
+Device MAC address: fe:cc:13:c2:e1:be
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 570100dfa8477c004c840355a757ab97e0f00e02fecc13c2e1be
+
+Device MAC address: 68:0c:8e:5b:14:da
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -82 dB
+	connectable: True
+	number of advertising packets received: 14
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c0010051a1c531160
+
+Device MAC address: 4a:d0:2e:22:9d:82
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: True
+	number of advertising packets received: 11
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c0010050b10dcafa1
+
+Device MAC address: 78:5f:50:f5:cc:59
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 3
+	Advertising data: 1
+	Advertising data description: Flags
+	Value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Value: 4c00100501184d8409
+
+Data: Mon Apr  1 17:12:56 2019
+
+Device MAC address: 79:1f:bb:32:9d:24
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -67 dB
+	connectable: False
+	number of advertising packets received: 18
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002028d8a93f762bea369ed2941ed5abd3d4ab7f89ce823f2
+
+Device MAC address: 22:37:23:7a:ba:d5
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -39 dB
+	connectable: False
+	number of advertising packets received: 20
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+
+Device MAC address: 34:ec:cc:f7:09:a7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: False
+	number of advertising packets received: 11
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+
+Device MAC address: 6a:fd:1d:07:89:06
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: True
+	number of advertising packets received: 19
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c8506fb
+
+Device MAC address: 73:f9:a2:b2:9e:7a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -73 dB
+	connectable: False
+	number of advertising packets received: 19
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+
+Device MAC address: 2b:80:70:d3:c2:ea
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -80 dB
+	connectable: False
+	number of advertising packets received: 8
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+
+Device MAC address: 10:cc:0a:44:04:21
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: False
+	number of advertising packets received: 12
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a050628abf6ce94f27b770ecd69e2afdf37aacf3a3805e
+
+Device MAC address: 0a:cb:5f:c1:ac:18
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -50 dB
+	connectable: False
+	number of advertising packets received: 19
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920021ad788835b22c1c3f6da871a24821dc168ff90897dc0ac
+
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -80 dB
+	connectable: True
+	number of advertising packets received: 11
+	Advertising data: 25
+	Advertising data description: Appearance
+	Advertising data value: 0000
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Advertising data value: 00001812-0000-1000-8000-00805f9b34fb
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 7d02010300985a
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 04
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: honor Band 3-f02
+
+Device MAC address: 6f:07:84:41:42:c3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 4
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005131cb1dc0f
+
+Device MAC address: 51:64:c5:34:24:5a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -68 dB
+	connectable: True
+	number of advertising packets received: 16
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031ca1870e
+
+Device MAC address: 68:0c:8e:5b:14:da
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 10
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010051b1c531160
+
+Device MAC address: 60:34:24:f8:dc:53
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 3
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 02
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: c4003703040e1080
+	Advertising data: 3
+	Advertising data description: Complete 16b Services
+	Advertising data value: 0000feb9-0000-1000-8000-00805f9b34fb
+	Advertising data: 27
+	Advertising data description: 0x1b
+	Advertising data value: b4f1da6a7574
+
+Device MAC address: 51:c0:bf:b3:9c:03
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 9
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031cd2c29c
+
+Device MAC address: 5a:fd:21:c0:38:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 4
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050318825757
+
+Device MAC address: 1f:8b:30:64:85:d3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -79 dB
+	connectable: False
+	number of advertising packets received: 9
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+
+Device MAC address: 59:c6:65:1a:41:93
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c91db4b
+
+Data: Mon Apr  1 17:24:03 2019
+
+Device MAC address: 73:f9:a2:b2:9e:7a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002874ae7a121d572366767a26b18a276f5c2048f80c87392
+
+Device MAC address: 38:59:5c:71:17:c2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -54 dB
+	connectable: False
+	number of advertising packets received: 16
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920021ad788835b22c1c3f6da871a24821dc168ff90897dc0ac
+
+Device MAC address: 2d:a8:3f:bb:41:9f
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 12
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002959f2e9c484408361efa2e2a10e61f29c0fd5e06d2f176
+
+Device MAC address: 79:e7:7a:ed:52:84
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 11
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050118de141d
+
+Device MAC address: 1f:8b:30:64:85:d3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 14
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010f2002ce4e8bb1a9745aefdce3a5352d4e121aea9d8b6d73ed52
+
+Device MAC address: 7e:a1:67:df:ec:f3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -63 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200203fa12c2061ae93b7cd59da37bd6afdb639680dc90ec6d
+
+Device MAC address: 7d:27:1e:07:04:de
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: True
+	number of advertising packets received: 13
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c9da6c0
+
+Device MAC address: 20:58:45:64:ae:fd
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -40 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+
+Device MAC address: 10:cc:0a:44:04:21
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: False
+	number of advertising packets received: 7
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a050628abf6ce94f27b770ecd69e2afdf37aacf3a3805e
+
+Device MAC address: 54:15:b4:f4:e7:66
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 7
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+
+Device MAC address: 47:44:87:37:58:03
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 4
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005011cebed5d
+
+Device MAC address: 5a:fd:21:c0:38:64
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050318825757
+
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: True
+	number of advertising packets received: 5
+	Advertising data: 25
+	Advertising data description: Appearance
+	Advertising data value: 0000
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Advertising data value: 00001812-0000-1000-8000-00805f9b34fb
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 7d02010300985a
+
+Device MAC address: 43:d4:ac:b6:7d:32
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 6
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050318e7d93c
+
+Device MAC address: 42:84:4e:fe:31:3c
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 5
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1c1dea73
+
+Device MAC address: 24:5a:4d:de:e5:cc
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -97 dB
+	connectable: False
+	number of advertising packets received: 2
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010f2000a7aa9573ab61cf6e32a43c390e7f6a46a39a2acce89ebf
+
+Data: Mon Apr  1 17:37:43 2019
+
+Device MAC address: 4d:23:e2:87:86:97
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -58 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200203fa12c2061ae93b7cd59da37bd6afdb639680dc90ec6d
+
+Device MAC address: 38:59:5c:71:17:c2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -60 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920021ad788835b22c1c3f6da871a24821dc168ff90897dc0ac
+
+Device MAC address: 2e:79:59:5c:aa:29
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002bd20af746780e75ed75761b95ebeb8c6a490d1da04fef0
+
+Device MAC address: 34:eb:bc:9d:cf:2e
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -42 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b8aaac1d201170d11955aaa98c0d9e31b963272ad27188
+
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 25
+	Advertising data description: Appearance
+	Advertising data value: 0000
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Advertising data value: 00001812-0000-1000-8000-00805f9b34fb
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 7d02010300985a
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 04
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: honor Band 3-f02
+
+Device MAC address: 42:84:4e:fe:31:3c
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c1dea73
+
+Device MAC address: 4e:12:46:15:a4:81
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -82 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002f31675f32d2ecd37464ba23868cdb7c866468bba7d35d5
+
+Device MAC address: 01:6e:f9:fd:93:d7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a050628abf6ce94f27b770ecd69e2afdf37aacf3a3805e
+
+Data: Mon Apr  1 17:50:42 2019
+
+Device MAC address: 4d:57:85:53:ca:83
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -76 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002f31675f32d2ecd37464ba23868cdb7c866468bba7d35d5
+
+Device MAC address: 5a:cf:f9:d1:e9:7d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -80 dB
+	connectable: False
+	number of advertising packets received: 4
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1c04f51a
+
+Device MAC address: 4d:23:e2:87:86:97
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -67 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200203fa12c2061ae93b7cd59da37bd6afdb639680dc90ec6d
+
+Device MAC address: 05:4a:4c:40:b8:a8
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -74 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920021ad788835b22c1c3f6da871a24821dc168ff90897dc0ac
+
+Device MAC address: 34:eb:bc:9d:cf:2e
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -39 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002f13ed4f4de2462033db3e4c3f4240909628079eb62d440
+
+Device MAC address: 2e:79:59:5c:aa:29
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002bd20af746780e75ed75761b95ebeb8c6a490d1da04fef0
+
+Device MAC address: 00:be:3b:b9:3f:02
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 25
+	Advertising data description: Appearance
+	Advertising data value: 0000
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Advertising data value: 00001812-0000-1000-8000-00805f9b34fb
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 7d02010300985a
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 04
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: honor Band 3-f02
+
+Device MAC address: 68:6b:52:44:1a:86
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005071c831e21
+
+Device MAC address: 09:4c:ea:b0:ae:1b
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: False
+	number of advertising packets received: 2
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a050628abf6ce94f27b770ecd69e2afdf37aacf3a3805e
+
+Data: Mon Apr  1 22:00:38 2019
+
+Device MAC address: f9:bb:d3:4a:50:c5
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -83 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 570100bff25635288f01e6b492f144ef61930e03f9bbd34a50c5
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: MI Band 2
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Advertising data value: 0000fee0-0000-1000-8000-00805f9b34fb
+	Advertising data: 22
+	Advertising data description: 16b Service Data
+	Advertising data value: e0fed9050000
+
+Device MAC address: 9c:20:7b:8e:91:c4
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -88 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c000906020000000000
+
+Device MAC address: c0:83:1d:31:45:48
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -52 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 00
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: AM1V310
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 01024cf4055ac0831d314548
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+
+Data: Mon Apr  1 22:35:40 2019
+
+Device MAC address: 9c:20:7b:8e:91:c4
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c000906020000000000
+
+Data: Tue Apr  2 13:28:35 2019
+
+Device MAC address: c0:83:1d:31:45:48
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -60 dB
+	connectable: True
+	number of advertising packets received: 62
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 00
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: AM1V310
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 01024cf4055ac0831d314548
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+
+Device MAC address: 2e:61:37:a3:02:fb
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -81 dB
+	connectable: False
+	number of advertising packets received: 46
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200283e82da5a344553a7866223998297c01821eea82e9f201
+
+Device MAC address: 06:9a:91:2a:34:15
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: False
+	number of advertising packets received: 54
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200274dac1b0d5688b5feeab6dd623b89b35315f0d7610adc5
+
+Device MAC address: 3b:38:89:09:65:d9
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -69 dB
+	connectable: False
+	number of advertising packets received: 54
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200228a9e8ccd0ca10d2cec6ac9561653d1112c978919f15f5
+
+Device MAC address: 2d:38:bb:82:c9:38
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: False
+	number of advertising packets received: 50
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002669aeaab7187750af8eb087c5668ed6b432105332eacfd
+
+Device MAC address: 1f:34:7a:b8:40:75
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -71 dB
+	connectable: False
+	number of advertising packets received: 49
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200213d13ceaf84b0d8b464da3d4f5ba17c68d796e57aad5e2
+
+Device MAC address: 7a:dd:d2:0b:f5:b8
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -64 dB
+	connectable: True
+	number of advertising packets received: 35
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1016670d
+
+Device MAC address: 16:e4:ba:e1:c8:9a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: False
+	number of advertising packets received: 33
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002f2da7f85e587fd18ac1293e7f6c2a14d51b542b1ff23a4
+
+Device MAC address: 76:49:05:ee:5c:26
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -74 dB
+	connectable: True
+	number of advertising packets received: 32
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050a18b9c716
+
+Device MAC address: f8:3f:51:13:98:db
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 13
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 75004204018060f83f511398dbfa3f511398da01000000000000
+
+Device MAC address: 45:7a:bc:bf:d4:0d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -81 dB
+	connectable: True
+	number of advertising packets received: 34
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c00100503181b3a56
+
+Device MAC address: 72:40:1a:f3:2b:a8
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -73 dB
+	connectable: True
+	number of advertising packets received: 27
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050a18ad50fc
+
+Device MAC address: 55:55:10:1d:6f:20
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -72 dB
+	connectable: True
+	number of advertising packets received: 27
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031cd97f35
+
+Device MAC address: 4e:55:94:2d:07:04
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c1bf150
+
+Device MAC address: 0d:fa:7c:8c:20:a6
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -81 dB
+	connectable: False
+	number of advertising packets received: 37
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002c56137047ec0da182659af1b9909ead83f1d47308dac23
+
+Device MAC address: 09:e0:4d:9c:e4:ee
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: False
+	number of advertising packets received: 28
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920026b38d9f0246a314e4be67c04ec3a40730ad4e0c15245f2
+
+Device MAC address: 05:10:34:da:db:99
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 7
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920023c695a2914e8b169d1fdce9b18d6b53d0e4f96ad51f6da
+
+Device MAC address: 3c:b2:01:72:76:dc
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 9
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920020bb9994915b8f9bc16578e1a1d53e231cb440b17c29f61
+
+Device MAC address: 73:87:44:72:a3:7d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 5
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c960ee4
+
+Device MAC address: 46:9a:32:0c:a0:20
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: True
+	number of advertising packets received: 5
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050a186cc411
+
+Device MAC address: 68:42:77:8e:4c:4d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 13
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050198b8997d
+
+Device MAC address: a0:9e:1a:15:a3:7d
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -82 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 2
+	Advertising data description: Incomplete 16b Services
+	Advertising data value: 0000feef-0000-1000-8000-00805f9b34fb
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 6b00720866ae690200000000
+
+Device MAC address: 15:16:6f:2c:20:a3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: False
+	number of advertising packets received: 11
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920026caddb6d0bc43bc3adac1f528002a1c2e53a54c3ed291e
+
+Device MAC address: 5e:42:f8:3b:d8:3c
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050a1cda01b2
+
+Device MAC address: 48:45:90:5c:bd:ce
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1cd3da5b
+
+Device MAC address: 37:f3:9f:78:7a:91
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 7
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b56ce845503fda058ad304a67c0d6e9da59478d48e6991
+
+Device MAC address: 80:e6:50:03:4e:63
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010020b08
+
+Device MAC address: 69:9c:75:2d:68:5c
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031847feb0
+
+Device MAC address: 52:ed:8d:fe:36:e3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c000c0e080bef1875a84c67e99252675c75
+
+Device MAC address: 02:0a:b6:d5:3f:0b
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -83 dB
+	connectable: False
+	number of advertising packets received: 4
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200242c2cec0bc1b60f8490e2fa978aa49fd4084b0311deb86
+
+Data: Tue Apr  2 16:39:27 2019
+
+Device MAC address: 07:c4:65:d4:44:6b
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -82 dB
+	connectable: False
+	number of advertising packets received: 34
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200253ef497fac916c07548fd5144cb9b532417ab363764354
+
+Device MAC address: c0:83:1d:31:45:48
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -59 dB
+	connectable: True
+	number of advertising packets received: 42
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 00
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: AM1V310
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 01024cf4055ac0831d314548
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+
+Device MAC address: 4d:27:e8:cf:5d:bc
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -72 dB
+	connectable: True
+	number of advertising packets received: 30
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050318d33382
+
+Device MAC address: 73:9d:cc:14:1e:29
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -71 dB
+	connectable: True
+	number of advertising packets received: 27
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1805ba86
+
+Device MAC address: 04:b8:94:b1:0d:b7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920026eaa72e449d034d390ddd70eedd724e4636abee461c487
+
+Device MAC address: 5a:b7:9f:65:92:b4
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 14
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c00100501980b2e95
+
+Device MAC address: 04:6a:c5:c2:b6:0d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: False
+	number of advertising packets received: 12
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200225821afb79bca74ef3bdb10adac7fcede6509dd0ec05e7
+
+Device MAC address: 02:15:40:ff:6a:56
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 23
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b97ecdb66de00c3dd08177615a58cfbe2d84bb42cf7647
+
+Device MAC address: 3a:6a:98:5d:5d:de
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -95 dB
+	connectable: False
+	number of advertising packets received: 12
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a30c371953e5761dfda18b0d662e1b74d1e71a00532f2e
+
+Device MAC address: 76:4b:d7:72:c1:62
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -97 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031899e53e
+
+Device MAC address: 4a:80:65:d0:39:a7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: True
+	number of advertising packets received: 19
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050318cab01e
+
+Device MAC address: 06:9d:74:35:ee:b2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: False
+	number of advertising packets received: 29
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920020ca47a58440247697a85891eec2b3c10101a44b70dc542
+
+Device MAC address: 09:75:0d:1a:1b:dc
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -97 dB
+	connectable: False
+	number of advertising packets received: 9
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200263cc08cf0a0b3740c31353ef0e91e910d580b8523435bd
+
+Device MAC address: 3e:e5:6b:1a:6c:67
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: False
+	number of advertising packets received: 18
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200233b5aa4be08907ddb6b070605dec50c362396a148ad833
+
+Device MAC address: 0f:bb:c3:4c:ba:c4
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920021c790ae714c0e6e4f155658d5e08360b0477430f23035a
+
+Device MAC address: 7f:f4:f4:6b:8c:b9
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -83 dB
+	connectable: True
+	number of advertising packets received: 25
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050a1c7ef088
+
+Device MAC address: 54:2c:87:65:f8:84
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 9
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010020308
+
+Device MAC address: 2e:b3:e4:11:05:f3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: False
+	number of advertising packets received: 20
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200208d9bca40bd6bd87b2a34667098a8490fc9ffdd1650b1b
+
+Device MAC address: 0e:93:19:74:82:e5
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -86 dB
+	connectable: False
+	number of advertising packets received: 22
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a94b031c7e8413300612fa72b87d1a5c895deb2d10dbb5
+
+Device MAC address: 39:e6:57:bc:7c:c0
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 14
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200245a3f8eeaf25112a72fee1a3b3287a627a60d4e76c162c
+
+Device MAC address: 29:dc:6f:28:28:2d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 3
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920027ce934a65ab0f8c0b981afc76d35df6debd328a5dc1f85
+
+Device MAC address: 66:b0:b1:f7:99:c2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -95 dB
+	connectable: True
+	number of advertising packets received: 4
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005011cd34a57
+
+Device MAC address: 6f:f2:4e:87:1b:47
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -96 dB
+	connectable: True
+	number of advertising packets received: 7
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005011808b091
+
+Device MAC address: 4b:d2:97:1d:5d:c2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -85 dB
+	connectable: True
+	number of advertising packets received: 13
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005031c7f5f1e
+
+Device MAC address: 22:2c:d9:86:50:41
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -101 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b09eb2db629f88bffd0e72cc70b508c67887aeab4029b8
+
+Device MAC address: 28:71:bd:bc:9a:1f
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109210a9ceaf8dc840c4445534b544f502d504d4e31543952
+
+Device MAC address: 19:4c:a4:de:49:5a
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109210a444e651928f850432d4769756c696f416d6162696c69
+
+Device MAC address: 14:d1:9a:22:2a:ef
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -99 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200213c63fdc9b6fef33cb93ef3d30e20fa806d02e1478d36a
+
+Device MAC address: 76:a7:2d:1f:d0:f0
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 1
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c000c0e000d86c64defeb2201aacec703dc
+
+Device MAC address: 1a:7e:b6:67:fd:b8
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -99 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002c9c9bb5d105c08f336fc58a5a9ff4364e895c05ccebe6b
+
+Device MAC address: 66:26:34:5c:87:ba
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200285f2095c99c7ca615f74cffa2782c8635ed68c97993e8e
+
+Data: Tue Apr  2 16:44:05 2019
+
+Device MAC address: 30:8e:c3:f5:a9:c8
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -83 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920021c7919fd6f16308a6a6ceed3d4721646d7da9dad814db5
+
+Device MAC address: c0:83:1d:31:45:48
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -59 dB
+	connectable: True
+	number of advertising packets received: 34
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 00
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: AM1V310
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 01024cf4055ac0831d314548
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+
+Device MAC address: 6b:d0:bd:3f:f3:a1
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 4
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1c7b3783
+
+Device MAC address: 0e:93:19:74:82:e5
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 22
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002a94b031c7e8413300612fa72b87d1a5c895deb2d10dbb5
+
+Device MAC address: 7f:f4:f4:6b:8c:b9
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -81 dB
+	connectable: True
+	number of advertising packets received: 14
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050a1c7ef088
+
+Device MAC address: 2d:cc:d5:dd:26:00
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -73 dB
+	connectable: False
+	number of advertising packets received: 30
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920025f13e034263d463162f3c89285b24a77b628530a00c07c
+
+Device MAC address: 73:9d:cc:14:1e:29
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -63 dB
+	connectable: True
+	number of advertising packets received: 26
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1805ba86
+
+Device MAC address: 4d:27:e8:cf:5d:bc
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -82 dB
+	connectable: True
+	number of advertising packets received: 24
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050318d33382
+
+Device MAC address: 06:9d:74:35:ee:b2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -81 dB
+	connectable: False
+	number of advertising packets received: 21
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920020ca47a58440247697a85891eec2b3c10101a44b70dc542
+
+Device MAC address: 4b:d2:97:1d:5d:c2
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -87 dB
+	connectable: True
+	number of advertising packets received: 6
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005071c7f5f1e
+
+Device MAC address: 2e:b3:e4:11:05:f3
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200208d9bca40bd6bd87b2a34667098a8490fc9ffdd1650b1b
+
+Device MAC address: 13:3d:32:fd:a2:da
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: False
+	number of advertising packets received: 18
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200253ef497fac916c07548fd5144cb9b532417ab363764354
+
+Device MAC address: 04:6a:c5:c2:b6:0d
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: False
+	number of advertising packets received: 5
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200225821afb79bca74ef3bdb10adac7fcede6509dd0ec05e7
+
+Device MAC address: 3e:e5:6b:1a:6c:67
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 15
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200248be42a49556dba867a9fa3e40be7a89584db04bf5fdbc
+
+Device MAC address: 01:22:11:96:c4:f1
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920027ce934a65ab0f8c0b981afc76d35df6debd328a5dc1f85
+
+Device MAC address: 04:b8:94:b1:0d:b7
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -90 dB
+	connectable: False
+	number of advertising packets received: 7
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920026eaa72e449d034d390ddd70eedd724e4636abee461c487
+
+Device MAC address: 0c:5a:b8:05:32:e1
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -95 dB
+	connectable: False
+	number of advertising packets received: 7
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109210a444e651928f850432d4769756c696f416d6162696c69
+
+Device MAC address: 5a:b7:9f:65:92:b4
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -89 dB
+	connectable: True
+	number of advertising packets received: 13
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c00100501980b2e95
+
+Device MAC address: 15:32:6b:71:e3:36
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: False
+	number of advertising packets received: 1
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920023d17ca9cbb6a6b5b08eb01f720346d7e30dcce484f4145
+
+Device MAC address: 4d:fc:76:6d:ed:ef
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -96 dB
+	connectable: True
+	number of advertising packets received: 2
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c00100503188a90a0
+
+Device MAC address: 1e:94:c5:a7:7b:91
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 12
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200203223403a653391eca6ac43f107371301a63234f63221f
+
+Device MAC address: 09:75:0d:1a:1b:dc
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: False
+	number of advertising packets received: 6
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 06000109200263cc08cf0a0b3740c31353ef0e91e910d580b8523435bd
+
+Device MAC address: 31:a7:99:1f:1a:8e
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -91 dB
+	connectable: False
+	number of advertising packets received: 14
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 0600010920027c82a62a98962b7a310b0ad68a54d2e3c2e3f96ccfd6e9
+
+Device MAC address: 6c:40:08:91:aa:0f
+	public  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -93 dB
+	connectable: True
+	number of advertising packets received: 5
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c0010050b1c1f369d
+
+Device MAC address: 02:15:40:ff:6a:56
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -94 dB
+	connectable: False
+	number of advertising packets received: 2
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b97ecdb66de00c3dd08177615a58cfbe2d84bb42cf7647
+
+Device MAC address: 36:15:44:b7:87:29
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: False
+	number of advertising packets received: 9
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002128a05b6d1d0f9480289025a20b20d56cd54ae290c438b
+
+Device MAC address: 76:a7:2d:1f:d0:f0
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -92 dB
+	connectable: True
+	number of advertising packets received: 6
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c000c0e001b864a66c0be1f697e0437bc38
+
+Device MAC address: 22:2c:d9:86:50:41
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -96 dB
+	connectable: False
+	number of advertising packets received: 2
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 060001092002b09eb2db629f88bffd0e72cc70b508c67887aeab4029b8
+
+Device MAC address: 6f:f2:4e:87:1b:47
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -84 dB
+	connectable: True
+	number of advertising packets received: 6
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 1a
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 4c001005011808b091
+
+Data: Tue Apr  2 16:44:30 2019
+
+Device MAC address: c0:83:1d:31:45:48
+	random  address type
+	bluetooth interface number: /dev/hci0
+	RSSI= -68 dB
+	connectable: True
+	number of advertising packets received: 41
+	Advertising data: 10
+	Advertising data description: Tx Power
+	Advertising data value: 00
+	Advertising data: 9
+	Advertising data description: Complete Local Name
+	Advertising data value: AM1V310
+	Advertising data: 255
+	Advertising data description: Manufacturer
+	Advertising data value: 01024cf4055ac0831d314548
+	Advertising data: 1
+	Advertising data description: Flags
+	Advertising data value: 06
+
+Data: Tue Apr  2 17:41:02 2019
+
+Data: Tue May 14 18:38:52 2019
+
+Data: Wed May 15 12:48:08 2019
