@@ -1,5 +1,0 @@
-Programma scritto durante l'ultima settimana di maggio
-Il programma abilita o disabilita a seconda della scelta dell'utente le notifiche relative alla caratteristica del sensore di temperatura e pressione, alla caratteristica del sensore dell'accelerometro, giroscopio e magnetometro, alla caratteristica del sensor fusion o alla caratteristica del pitch e roll.
-Il programma salva i dati, decifrati, nel file "Dati sensori.txt". Vengono creati 5 file "Accelerometro.txt.", "Giroscopio.txt", "Magnetometro.txt", "Sensor Fusion.txt" e "Pitch e Roll.txt" in cui i dati sono scritti in modo tabellare secondo la forma "timestamp"\t"Valore asse x"\t"Valore asse y"\t"Valore asse z"\t\n per essere poi usati in MATLAB per fare dei grafici.
-
-CAMBIAMENTI RISPETTO LA VERSIONE PRECEDENTE: attivazione notifiche della nuova caratteristica (uuid = 00EE0000000111e1ac360002a5d5c51b) del pitch e roll
