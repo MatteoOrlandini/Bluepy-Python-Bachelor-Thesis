@@ -40,3 +40,13 @@ To run this code `cd '.\6. Pitch and roll notification\'` and `python Ricezione_
 In [7. Ricezione notifiche (programma finale)](https://github.com/MatteoOrlandini/Bluepy-Python-Thesis/tree/master/7.%20Ricezione%20notifiche%20(programma%20finale)), the program [Ricezione_notifiche.py](https://github.com/MatteoOrlandini/Bluepy-Python-Thesis/blob/master/7.%20Ricezione%20notifiche%20(programma%20finale)/Ricezione_notifiche.py) enables or disables, depending on the user's choice, notifications relating to the characteristic of the temperature and pressure sensor, to the characteristic of the accelerometer, gyroscope and magnetometer sensor, to the characteristic of the sensor fusion or to the characteristic of pitch and roll.
 The program saves the decrypted data in the "Dati sensori.txt" file. The 5 files created are "Accelerometro.txt.", "Giroscopio.txt", "Magnetometro.txt", "Sensor Fusion.txt" and "Pitch e Roll.txt" in which the data is written in tabular form according to theform `timestamp \t X-axis value \t Y-axis value \t Z-axis value \t\n` to be used later in MATLAB to make graphs. Changelog from [6. Pitch and roll notification](https://github.com/MatteoOrlandini/Bluepy-Python-Thesis/tree/master/6.%20Pitch%20and%20roll%20notification): if the SensorTile disconnects, the program continues to search for it until it becomes "visible" again.
 To run this code `cd '.\7. Ricezione notifiche (programma finale)\'` and `python Ricezione_notifiche.py`.
+
+## Results
+
+The figure below shows a comparison between the filtered pitch data, in blue, and the data simply obtained from the formulas in which are used the accelerometer axis values, in red.
+
+![](https://github.com/MatteoOrlandini/Bluepy-Python-Thesis/blob/master/pitch.png)
+
+The figure below shows a comparison between the filtered roll data, in blue, and the data simply obtained from the formulas in which are used the accelerometer axis values, in red.
+
+![](https://github.com/MatteoOrlandini/Bluepy-Python-Thesis/blob/master/roll.png)
