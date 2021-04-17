@@ -1,6 +1,6 @@
 # Bluepy-Python-Thesis
 
-This repository contains Bluetooth 4.0 (BLE) Python programs to scan and connect to the SensorTile device and enable BLE notification used in my bachelor thesis.
+This repository contains Bluetooth 4.0 (BLE) Python programs to scan and connect to the SensorTile device and enable BLE notification used in my bachelor thesis. The library used is [bluepy](https://github.com/IanHarvey/bluepy), a Python interface to Bluetooth LE on Linux.
 
 ## 1. Scan bluetooth devices
 
